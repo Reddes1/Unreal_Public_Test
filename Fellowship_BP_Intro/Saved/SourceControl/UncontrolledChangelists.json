@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/Example.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/BP_Door.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/BP_Button.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/4B/C4ZOU2N3GQ9I8NXIZL89RF.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7F/2SVXHAU7HMV76SHPSWQURT.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/U4/JTJVHIAF85Q67BRAJS72V6.uasset",
+				"C:/Users/Ben/Documents/Unreal Projects/Fellowship_BP_Intro/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7X/BBSQHFJVYW1QJ3CGNRTLUU.uasset"
+			]
+		}
+	]
+}
